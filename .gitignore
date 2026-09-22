@@ -43,3 +43,6 @@ data/*.pdf
 # python
 __pycache__/
 *.pyc
+
+.vercel
+.env*
